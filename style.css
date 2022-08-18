@@ -1,0 +1,46 @@
+body {
+    background-color: #E9ECEF !important;
+}
+
+li {
+    list-style-type: decimal-leading;
+    font-weight: 500;
+}
+
+aside h6 {
+    font-size: 18px;
+    font-weight: 600;
+}
+
+section a {
+    font-weight: 600;
+    text-decoration: none;
+    color: #000;
+}
+
+.nav-item {
+    list-style: none;
+}
+
+.myContent {
+    border-radius: 10px;
+    background-color: #f1f1f1;
+    padding-left: 10px;
+    padding-bottom: 5px;
+}
+
+.card {
+    width: 200px;
+    height: 400px !important;
+    cursor: pointer;
+}
+.instrument{
+    padding-top: 80px;
+    margin-bottom: 45px;
+}
+
+.card a{
+    text-decoration: none;
+    color: #dc3545;
+    font-weight: 600;
+}
